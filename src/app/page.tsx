@@ -7,8 +7,8 @@ export default function Homepage() {
     
       <div>
 
- <h1></h1>
- <Heropage />
+
+ <Heropage /><hr></hr>
  <Educationpage />
  <Aboutpage/>
  <Projectpage/>
@@ -18,3 +18,6 @@ export default function Homepage() {
     
   )
 }
+
+
+
