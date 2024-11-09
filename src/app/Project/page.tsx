@@ -4,8 +4,8 @@ import Link from "next/link";
 export default function Projectpage() {
   return (
     <div className="p-6 bg-slate-200 ">
-      <h1 className="text-4xl font-bold mb-4 ">My Projects</h1>
-      <p className="text-lg mb-6 text-slate-600 bg-slate-200">
+      <h1 className="text-4xl font-bold mb-2 ">My Projects</h1>
+      <p className="text-lg mb-6 text-slate-600 bg-slate-200 sm:text-left">
         Throughout my development journey, I have created various projects that
         reflect my skills and creativity. Notable projects include a Student
         Identification Card for GIAIC and a Next.js Todo List application,
@@ -54,7 +54,7 @@ export default function Projectpage() {
 
       <div>
         <h2 className="text-2xl font-semibold mb-2">NPX Projects</h2>
-        <ul className="list-disc list-inside space-y-2">
+        <ul className="list-disc list-inside space-y-2 sm:text-left">
           <li>npx 23class-online-2nd-project</li>
           <li>npx currency-converter_with_maryam</li>
           <li>npx @m2h5m/calculator02</li>

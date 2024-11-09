@@ -7,10 +7,10 @@ export default function Heropage() {
       <div className="bg-gray-100 p-14 min-h-screen rounded-lg shadow-md">
          {/* Main Content */}
          <main className="p-7 bg-slate-300">
-          <h2 className="text-4xl font-bold text-center">Welcome to My Website!</h2>
+          <h2 className="text-4xl font-bold text-center ">Welcome to My Website!</h2>
           <p className="mt-4 text-center ">
             This is my very first webpage built using <strong>Next.js</strong> and{" "}
-            <strong>Tailwind CSS</strong>. I’m excited to start my journey in web
+            <strong>Tailwind CSS</strong>. Im excited to start my journey in web
             development, and this site will be a space where I showcase my
             projects, share my learning experiences, and document my progress.
           </p>
@@ -21,7 +21,7 @@ export default function Heropage() {
           <p className="mt-4 text-center">
             Next.js helps me create fast, scalable websites with ease, and
             Tailwind CSS allows me to style everything beautifully without writing
-            much custom CSS. I’m still learning, and this site will keep evolving
+            much custom CSS. Im still learning, and this site will keep evolving
             as I gain more knowledge and skills.
           </p>
           <p className="font-semibold mt-4 text-center">
